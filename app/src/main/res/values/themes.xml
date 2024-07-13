@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RealTimeAiTrafficLight" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+       <item name="colorPrimary">@color/bounding_box_color</item> -->
+    </style>
+
+    <style name="Theme.RealTimeAiTrafficLight" parent="Base.Theme.RealTimeAiTrafficLight" />
+</resources>
